@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746009613230",
+    "project_id": "dbprova-b0771",
+    "storage_bucket": "dbprova-b0771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746009613230:android:6768911f0c08dc807bae3f",
+        "android_client_info": {
+          "package_name": "com.example.dbfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdF89oIvw8VuJQLgrGODOr74si3KlzmSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746009613230:android:cc709a3ceae7eedb7bae3f",
+        "android_client_info": {
+          "package_name": "com.example.prenotazione"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdF89oIvw8VuJQLgrGODOr74si3KlzmSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
